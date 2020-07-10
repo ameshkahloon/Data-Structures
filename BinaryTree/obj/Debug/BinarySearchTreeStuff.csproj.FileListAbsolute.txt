@@ -1,0 +1,7 @@
+C:\Users\Amesh\Desktop\Amesh\Work\Programming\C#\Data Structures\Structures\BinaryTree\bin\Debug\BinaryTree.exe.config
+C:\Users\Amesh\Desktop\Amesh\Work\Programming\C#\Data Structures\Structures\BinaryTree\bin\Debug\BinaryTree.exe
+C:\Users\Amesh\Desktop\Amesh\Work\Programming\C#\Data Structures\Structures\BinaryTree\bin\Debug\BinaryTree.pdb
+C:\Users\Amesh\Desktop\Amesh\Work\Programming\C#\Data Structures\Structures\BinaryTree\obj\Debug\BinarySearchTreeStuff.csprojAssemblyReference.cache
+C:\Users\Amesh\Desktop\Amesh\Work\Programming\C#\Data Structures\Structures\BinaryTree\obj\Debug\BinarySearchTreeStuff.csproj.CoreCompileInputs.cache
+C:\Users\Amesh\Desktop\Amesh\Work\Programming\C#\Data Structures\Structures\BinaryTree\obj\Debug\BinaryTree.exe
+C:\Users\Amesh\Desktop\Amesh\Work\Programming\C#\Data Structures\Structures\BinaryTree\obj\Debug\BinaryTree.pdb

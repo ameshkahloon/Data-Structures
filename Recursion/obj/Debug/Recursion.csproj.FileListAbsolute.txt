@@ -1,0 +1,10 @@
+C:\Users\Amesh\Desktop\Work\Programming\C#\Data Structures\Structures\Recursion\bin\Debug\Recursion.exe.config
+C:\Users\Amesh\Desktop\Work\Programming\C#\Data Structures\Structures\Recursion\bin\Debug\Recursion.exe
+C:\Users\Amesh\Desktop\Work\Programming\C#\Data Structures\Structures\Recursion\bin\Debug\Recursion.pdb
+C:\Users\Amesh\Desktop\Work\Programming\C#\Data Structures\Structures\Recursion\obj\Debug\Recursion.csprojAssemblyReference.cache
+C:\Users\Amesh\Desktop\Work\Programming\C#\Data Structures\Structures\Recursion\obj\Debug\Recursion.csproj.CoreCompileInputs.cache
+C:\Users\Amesh\Desktop\Work\Programming\C#\Data Structures\Structures\Recursion\obj\Debug\Recursion.exe
+C:\Users\Amesh\Desktop\Work\Programming\C#\Data Structures\Structures\Recursion\obj\Debug\Recursion.pdb
+C:\Users\Amesh\Desktop\Work\Programming\C#\Data Structures\Structures\Recursion\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\Amesh\Desktop\Work\Programming\C#\Data Structures\Structures\Recursion\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\Amesh\Desktop\Work\Programming\C#\Data Structures\Structures\Recursion\obj\Debug\Recursion.csproj.CopyComplete

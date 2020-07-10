@@ -1,0 +1,7 @@
+C:\Users\Amesh\Desktop\Amesh\Work\Programming\C#\Data Structures\Structures\StackStuff\bin\Debug\StackStuff.exe.config
+C:\Users\Amesh\Desktop\Amesh\Work\Programming\C#\Data Structures\Structures\StackStuff\bin\Debug\StackStuff.exe
+C:\Users\Amesh\Desktop\Amesh\Work\Programming\C#\Data Structures\Structures\StackStuff\bin\Debug\StackStuff.pdb
+C:\Users\Amesh\Desktop\Amesh\Work\Programming\C#\Data Structures\Structures\StackStuff\obj\Debug\StackStuff.csproj.CoreCompileInputs.cache
+C:\Users\Amesh\Desktop\Amesh\Work\Programming\C#\Data Structures\Structures\StackStuff\obj\Debug\StackStuff.exe
+C:\Users\Amesh\Desktop\Amesh\Work\Programming\C#\Data Structures\Structures\StackStuff\obj\Debug\StackStuff.pdb
+C:\Users\Amesh\Desktop\Amesh\Work\Programming\C#\Data Structures\Structures\StackStuff\obj\Debug\StackStuff.csprojAssemblyReference.cache

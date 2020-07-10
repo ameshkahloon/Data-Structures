@@ -1,0 +1,14 @@
+C:\Users\Amesh\Desktop\Work\Programming\C#\Data Structures\Structures\LinkedList\bin\Debug\LinkedList.exe.config
+C:\Users\Amesh\Desktop\Work\Programming\C#\Data Structures\Structures\LinkedList\bin\Debug\LinkedList.exe
+C:\Users\Amesh\Desktop\Work\Programming\C#\Data Structures\Structures\LinkedList\bin\Debug\LinkedList.pdb
+C:\Users\Amesh\Desktop\Work\Programming\C#\Data Structures\Structures\LinkedList\obj\Debug\LinkedListStuff.csproj.CoreCompileInputs.cache
+C:\Users\Amesh\Desktop\Work\Programming\C#\Data Structures\Structures\LinkedList\obj\Debug\LinkedList.exe
+C:\Users\Amesh\Desktop\Work\Programming\C#\Data Structures\Structures\LinkedList\obj\Debug\LinkedList.pdb
+C:\Users\Amesh\Desktop\Work\Programming\C#\Data Structures\Structures\LinkedList\obj\Debug\LinkedListStuff.csprojAssemblyReference.cache
+C:\Users\Amesh\Desktop\Amesh\Work\Programming\C#\Data Structures\Structures\LinkedList\bin\Debug\LinkedList.exe.config
+C:\Users\Amesh\Desktop\Amesh\Work\Programming\C#\Data Structures\Structures\LinkedList\bin\Debug\LinkedList.exe
+C:\Users\Amesh\Desktop\Amesh\Work\Programming\C#\Data Structures\Structures\LinkedList\bin\Debug\LinkedList.pdb
+C:\Users\Amesh\Desktop\Amesh\Work\Programming\C#\Data Structures\Structures\LinkedList\obj\Debug\LinkedListStuff.csprojAssemblyReference.cache
+C:\Users\Amesh\Desktop\Amesh\Work\Programming\C#\Data Structures\Structures\LinkedList\obj\Debug\LinkedListStuff.csproj.CoreCompileInputs.cache
+C:\Users\Amesh\Desktop\Amesh\Work\Programming\C#\Data Structures\Structures\LinkedList\obj\Debug\LinkedList.exe
+C:\Users\Amesh\Desktop\Amesh\Work\Programming\C#\Data Structures\Structures\LinkedList\obj\Debug\LinkedList.pdb
